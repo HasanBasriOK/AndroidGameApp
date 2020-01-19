@@ -1,6 +1,6 @@
 # AndroidGameApp
 
-![image](https://g.hizliresim.com/acik-sari-col-f47)]
+![image](https://github.com/HasanBasriOK/AndroidGameApp/blob/master/app/src/main/res/drawable/kedi.png)
 
 
 
