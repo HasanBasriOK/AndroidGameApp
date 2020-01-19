@@ -1,6 +1,6 @@
 # AndroidGameApp
 
-![![image](https://g.hizliresim.com/acik-sari-col-f47)](https://hizliresim.com/g/doga/i/acik-sari-col)
+![image](https://g.hizliresim.com/acik-sari-col-f47)](https://hizliresim.com/g/doga/i/acik-sari-col)
 
 
 
